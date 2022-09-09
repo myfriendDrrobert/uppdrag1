@@ -5,3 +5,8 @@ void firstFunction()
 {
     Console.WriteLine("hej git!");
 }
+
+void branchFunction()
+{
+    Console.WriteLine("hej hej");
+}
